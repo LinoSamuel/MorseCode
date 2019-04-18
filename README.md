@@ -1,4 +1,5 @@
 # MorseCode
-LPC1769
-Implement Morse Code Signal using On board LED on LPC 1769
-![](images/MORSE.gif
+LPC1769 Morse code implementation
+user input from the user
+
+![](images/MORSE.gif)
